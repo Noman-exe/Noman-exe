@@ -27,4 +27,4 @@
 
 ### 📫 Contact & Socials
 
-[LinkedIn](https://linkedin.com/in/noman-ali-374665241) • [Email](mailto:noman70488@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-noman-2a9925313) • [Email](mailto:noman70488@gmail.com)
