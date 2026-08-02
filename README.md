@@ -1,16 +1,30 @@
-## Hi there 👋
+# Muhammad Noman 👋
 
-<!--
-**Noman-exe/Noman-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Computer Science Student & Aspiring Software Engineer*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Quick Overview
+
+- 🎓 **Education:** BS Computer Science @ UBIT, University of Karachi
+- 🚀 **Focus:** Building practical software & solving real-world problems
+- 🎯 **Interests:** Software Development & System Quality
+- 📍 **Location:** Karachi, Pakistan
+
+---
+
+### 📌 Featured Work
+
+* **[Karachi Complaint Portal](https://github.com/Noman-exe/Karachi-Complaint-Portal)** — A civic application built to report and track local infrastructure issues in real time.
+
+---
+
+### 📊 GitHub Activity
+
+![Noman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noman-exe&show_icons=true&theme=transparent&hide_border=true)
+
+---
+
+### 📫 Contact & Socials
+
+[LinkedIn](https://linkedin.com/in/noman-ali-374665241) • [Email](mailto:noman70488@gmail.com)
